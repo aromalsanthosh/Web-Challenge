@@ -1,0 +1,33 @@
+body{
+	margin=0;
+	padding: =0;
+	background: url(pic.svg);
+	background-size: cover;
+	background-position: top;
+	font-family: sans-serif;
+	margin: left:100px;
+}
+
+.loginbox{
+
+    padding: 5px;
+    border-radius: 20px;
+    text-align: center;
+}
+.pro{
+  margin-top:3%;
+}
+.password{
+	padding: 5px;
+	border-radius: 20px;
+	text-align: center;
+}
+.login{
+	padding: 5px;
+	margin-left: 5px;
+	text-align: center;
+	cursor: default;
+}
+.msg{
+		color: #4CAF50;	
+}
